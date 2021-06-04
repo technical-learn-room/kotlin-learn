@@ -1,3 +1,4 @@
 # 코틀린에 대해 사소하지만 궁금했던 점들
 
-### [var로 선언된 property는 왜 private set이 안 될까?]()
+### [왜 var로 선언된 property는 private set이 안 될까?](https://github.com/technical-learn-room/kotlin-learn/wiki/%EC%99%9C-var%EB%A1%9C-%EC%84%A0%EC%96%B8%EB%90%9C-property%EB%8A%94-private-set%EC%9D%B4-%EC%95%88-%EB%90%A0%EA%B9%8C%3F)  
+### []()
