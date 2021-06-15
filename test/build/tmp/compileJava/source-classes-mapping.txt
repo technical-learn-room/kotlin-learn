@@ -1,2 +1,0 @@
-com/j/research/Calculator.java
- com.j.research.Calculator
