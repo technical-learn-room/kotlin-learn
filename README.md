@@ -2,6 +2,7 @@
 
 ![Kotlin 2021 logo](https://user-images.githubusercontent.com/48639421/122698153-b5f0bf80-d281-11eb-817d-bc3bf9b2db83.png)
 
+### [Hello()()()()() 이건 뭐지..?](https://velog.io/@dhwlddjgmanf/Hello-%EC%9D%B4%EA%B1%B4-%EB%AD%90%EC%A7%80)  
 ### [자바에서 호출 못하는 코틀린 함수 만들기](https://velog.io/@dhwlddjgmanf/%EC%9E%90%EB%B0%94%EC%97%90%EC%84%9C-%ED%98%B8%EC%B6%9C-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%BD%94%ED%8B%80%EB%A6%B0-%ED%95%A8%EC%88%98-%EB%A7%8C%EB%93%A4%EA%B8%B0)  
 ### [asSequence()가 무조건 좋은 거 아니야?](https://velog.io/@dhwlddjgmanf/Kotlin-asSequence-vs-non-asSequence)  
 ### [코틀린의 람다에서 final이 아닌 외부 변수를 변경할 수 있는 이유는?](https://velog.io/@dhwlddjgmanf/%EC%9E%90%EB%B0%94%EC%97%90%EC%84%A0-%EC%95%88-%EB%90%98%EB%8A%94%EB%8D%B0-%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98-%EB%9E%8C%EB%8B%A4%EC%97%90%EC%84%9C-final%EC%9D%B4-%EC%95%84%EB%8B%8C-%EC%99%B8%EB%B6%80-%EB%B3%80%EC%88%98%EB%A5%BC-%EB%B3%80%EA%B2%BD%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%9C%A0%EB%8A%94)  
