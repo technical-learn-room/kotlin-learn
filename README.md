@@ -15,3 +15,6 @@
 ### [왜 var로 선언된 property는 private set이 안 될까?](https://velog.io/@dhwlddjgmanf/%EC%99%9C-var%EB%A1%9C-%EC%84%A0%EC%96%B8%EB%90%9C-property%EB%8A%94-private-set%EC%9D%B4-%EC%95%88-%EB%90%A0%EA%B9%8C)  
 ### [읽기 전용 컬렉션의 불변성을 깨뜨리는 방법](https://velog.io/@dhwlddjgmanf/%EC%9D%BD%EA%B8%B0-%EC%A0%84%EC%9A%A9-%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%98-%EB%B6%88%EB%B3%80%EC%84%B1%EC%9D%84-%EA%B9%A8%EB%9C%A8%EB%A6%AC%EB%8A%94-%EB%B0%A9%EB%B2%95)  
 ### [internal의 범위는 어디까지일까?](https://velog.io/@dhwlddjgmanf/internal%EC%9D%98-%EB%B2%94%EC%9C%84%EB%8A%94-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80%EC%9D%BC%EA%B9%8C)  
+
+## 함수 백과사전  
+### [padStart](https://github.com/technical-learn-room/kotlin-learn/methods/padStart.md)  
