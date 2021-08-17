@@ -17,4 +17,4 @@
 ### [internal의 범위는 어디까지일까?](https://velog.io/@dhwlddjgmanf/internal%EC%9D%98-%EB%B2%94%EC%9C%84%EB%8A%94-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80%EC%9D%BC%EA%B9%8C)  
 
 ## 함수 백과사전  
-### [padStart](https://github.com/technical-learn-room/kotlin-learn/methods/padStart.md)  
+### [padStart](https://github.com/technical-learn-room/kotlin-learn/blob/main/methods/padStart.md)  
