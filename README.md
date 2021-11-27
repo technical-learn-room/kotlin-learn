@@ -1,4 +1,4 @@
-# 솔직히 코틀린 하면서 모르는 거 있을 걸요?
+# Kotlin
 
 ![Kotlin 2021 logo](https://user-images.githubusercontent.com/48639421/122698153-b5f0bf80-d281-11eb-817d-bc3bf9b2db83.png)
 
