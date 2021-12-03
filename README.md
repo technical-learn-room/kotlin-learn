@@ -24,3 +24,4 @@ fun main() {
 
 ### 함수 백과사전: 모르는데 못쓰는 것이랑 아는데 안 쓰는 것은 다르다  
 - [padStart](https://github.com/technical-learn-room/kotlin-learn/blob/main/methods/padStart.md)  
+- [padEnd](https://github.com/technical-learn-room/kotlin-learn/blob/main/methods/padEnd.md)  
