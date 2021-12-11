@@ -12,6 +12,7 @@ fun main() {
 - [value class에 대해 알아보자](https://velog.io/@dhwlddjgmanf/Kotlin-1.5%EC%97%90-%EC%B6%94%EA%B0%80%EB%90%9C-value-class%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)  
 
 ### 코틀린에 대해 더 깊게 알아보자
+- [코틀린에서 재귀 함수 최적화하기]()  
 - [Hello()()()()()와 같은 함수 만들어보기](https://velog.io/@dhwlddjgmanf/Hello-%EC%9D%B4%EA%B1%B4-%EB%AD%90%EC%A7%80)  
 - [자바에서 호출 못하는 코틀린 함수 만들기](https://velog.io/@dhwlddjgmanf/%EC%9E%90%EB%B0%94%EC%97%90%EC%84%9C-%ED%98%B8%EC%B6%9C-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%BD%94%ED%8B%80%EB%A6%B0-%ED%95%A8%EC%88%98-%EB%A7%8C%EB%93%A4%EA%B8%B0)  
 - [asSequence()가 무조건 좋은 거 아니야?](https://velog.io/@dhwlddjgmanf/Kotlin-asSequence-vs-non-asSequence)  
